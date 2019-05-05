@@ -5,7 +5,7 @@ def first_challenge
        :matrirch => {}
        :helper_method => {}
        :hero_friends => []
-     }
+     },
      :capulet => {}
    }
 end
