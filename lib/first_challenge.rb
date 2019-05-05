@@ -3,7 +3,7 @@ def first_challenge
      :montague => {
        :patriarch => {:name => "Lord Montague", :age => "53"},
        :matrirch => {:name => "Lady Montague", :age => "54"},
-       :hero => {},
+       :hero => {:name => "Romeo", :age => "15"},
        :hero_friends => []
      },
      :capulet => {
